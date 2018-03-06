@@ -13,3 +13,7 @@
 ### Manual ###
 
 Follow *GitHub* instructions.
+
+### Windows ###
+
+Don't even try it!
