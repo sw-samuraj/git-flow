@@ -1,3 +1,7 @@
 = How to use git-flow =
 
-TBD
+== Installation ==
+
+=== Ubuntu ===
+
+    sudo apt install git-flow
