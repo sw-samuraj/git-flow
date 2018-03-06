@@ -9,3 +9,7 @@
 ### Mac OS ###
 
     brew install git-flow
+
+### Manual ###
+
+Follow *GitHub* instructions.
