@@ -1,7 +1,7 @@
-= How to use git-flow =
+# How to use git-flow #
 
-== Installation ==
+## Installation ##
 
-=== Ubuntu ===
+### Ubuntu ###
 
     sudo apt install git-flow
